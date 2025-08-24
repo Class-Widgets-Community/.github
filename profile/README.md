@@ -1,11 +1,11 @@
 > [!NOTE]
-> Class Widgets 有QQ群啦！详见[此处](#社区)
+> Class Widgets Community Edition 有QQ群啦！详见[此处](#社区)
 
 <p align="center">
   <img width="16%" align="center" src="img/favicon.png" alt="logo">
 </p>
   <h1 align="center">
-  Class Widgets
+  Class Widgets Community Edition
 </h1>
 
 <div align="center">
@@ -48,7 +48,7 @@
 若已**满足**，请进行接下来的步骤。
 
 #### 下载 Class Widgets Community Edition
-您可在此应用 GitHub 仓库的 Release 页面中下载最新的 Class Widgets:
+您可在此应用 GitHub 仓库的 Release 页面中下载最新的 Class Widgets Community Edition:
 > **关于测试版：** 在测试版中可提前享用最新的功能，但也可能出现预料之外的问题。
 
 |  **📃 正式版** [![当前版本](https://img.shields.io/github/v/release/Class-Widgets-Community/Class-Widgets-1-Community-Edition?style=flat-square&color=purple&label=当前版本)](https://github.com/Class-Widgets-Community/Class-Widgets-1-Community-Edition/releases/latest)  |  **🚧 测试版** [![测试版](https://img.shields.io/github/v/tag/Class-Widgets-Community/Class-Widgets-1-Community-Edition?include_prereleases&label=当前测试版&color=yellow&style=flat-square)](https://github.com/Class-Widgets-Community/Class-Widgets-1-Community-Edition/releases)  |
@@ -61,7 +61,7 @@
 > *网盘密码：RL23* -->
 
 #### 解压 & 运行
-下载完成后，将软件解压到一个**独立的文件夹**，然后在解压后的文件夹找到 `ClassWidgets.exe` 或 `ClassWidgets` 即可运行。
+下载完成后，将软件解压到一个**独立的文件夹**，然后在解压后的文件夹找到 `ClassWidgetsCE.exe` 或 `ClassWidgetsCE` 即可运行。
 
 ## 社区
 我们目前开通了 [Discussions](https://github.com/orgs/Class-Widgets-Community/discussions)、[QQ群](https://qm.qq.com/q/Zsc4Cn9MS6)
