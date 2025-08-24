@@ -15,7 +15,7 @@
 [![测试版](https://img.shields.io/github/v/tag/Class-Widgets-Community/Class-Widgets-1-Community-Edition?include_prereleases&label=当前测试版&color=yellow&style=for-the-badge)](https://github.com/Class-Widgets-Community/Class-Widgets-1-Community-Edition/releases)
 [![开源许可](https://img.shields.io/badge/license-GPLv3-blue.svg?label=开源许可证&style=for-the-badge)](https://github.com/Class-Widgets-Community/Class-Widgets-1-Community-Edition)
 [![下载量](https://img.shields.io/github/downloads/Class-Widgets-Community/Class-Widgets-1-Community-Edition/total.svg?label=下载量&color=green&style=for-the-badge)](https://github.com/Class-Widgets-Community/Class-Widgets-1-Community-Edition)
-[![Q群](https://img.shields.io/badge/QQ群-659521627-blue.svg?logo=qq&color=blue&style=for-the-badge)](https://qm.qq.com/q/Zsc4Cn9MS6)
+[![Q群](https://img.shields.io/badge/QQ群-659521627-blue.svg?logo=qq&color=blue&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=leZfEvwmQEMGJa7LPLFqT5YHgIkajCJD&authKey=TPhyEltQBtd+U9DvnMtsXNJUHJKvEzKXsTouTOxzdpwroBa4mltsLFFeeUnpAcay6)
 
 <p align="center">
  全新桌面课表。
@@ -64,7 +64,7 @@
 下载完成后，将软件解压到一个**独立的文件夹**，然后在解压后的文件夹找到 `ClassWidgetsCE.exe` 或 `ClassWidgetsCE` 即可运行。
 
 ## 社区
-我们目前开通了 [Discussions](https://github.com/orgs/Class-Widgets-Community/discussions)、[QQ群](https://qm.qq.com/q/Zsc4Cn9MS6)
+我们目前开通了 [Discussions](https://github.com/orgs/Class-Widgets-Community/discussions)、[QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=leZfEvwmQEMGJa7LPLFqT5YHgIkajCJD&authKey=TPhyEltQBtd+U9DvnMtsXNJUHJKvEzKXsTouTOxzdpwroBa4mltsLFFeeUnpAcay)
 <details>
 <!-- <summary><b>查看Q群二维码</b></summary>
 <img src="" alt="Q群二维码">
